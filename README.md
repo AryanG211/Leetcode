@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanG211/Leetcode/tree/master/0009-palindrome-number) |
+| [2556-convert-the-temperature](https://github.com/AryanG211/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
