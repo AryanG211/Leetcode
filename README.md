@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/AryanG211/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AryanG211/Leetcode/tree/master/0035-search-insert-position) |
+| [1791-richest-customer-wealth](https://github.com/AryanG211/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanG211/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/AryanG211/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
