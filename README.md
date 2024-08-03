@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanG211/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/AryanG211/Leetcode/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanG211/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2556-convert-the-temperature](https://github.com/AryanG211/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AryanG211/Leetcode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AryanG211/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AryanG211/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
