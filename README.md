@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AryanG211/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AryanG211/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/AryanG211/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1791-richest-customer-wealth](https://github.com/AryanG211/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2727-number-of-senior-citizens](https://github.com/AryanG211/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AryanG211/Leetcode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AryanG211/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/AryanG211/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanG211/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AryanG211/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AryanG211/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
