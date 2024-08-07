@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AryanG211/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AryanG211/Leetcode/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/AryanG211/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AryanG211/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AryanG211/Leetcode/tree/master/0326-power-of-three) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AryanG211/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AryanG211/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AryanG211/Leetcode/tree/master/0342-power-of-four) |
