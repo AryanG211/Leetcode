@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AryanG211/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AryanG211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0890-lemonade-change](https://github.com/AryanG211/Leetcode/tree/master/0890-lemonade-change) |
 | [1791-richest-customer-wealth](https://github.com/AryanG211/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2727-number-of-senior-citizens](https://github.com/AryanG211/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AryanG211/Leetcode/tree/master/0414-third-maximum-number) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/AryanG211/Leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
