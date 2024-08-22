@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AryanG211/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AryanG211/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AryanG211/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/AryanG211/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AryanG211/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2556-convert-the-temperature](https://github.com/AryanG211/Leetcode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AryanG211/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/AryanG211/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AryanG211/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AryanG211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/AryanG211/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
