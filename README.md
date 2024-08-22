@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AryanG211/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AryanG211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AryanG211/Leetcode/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/AryanG211/Leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
